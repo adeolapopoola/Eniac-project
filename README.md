@@ -4,8 +4,8 @@ Eniac is an e-commerce tech company! As a Data Analyst, I worked on internal dat
 The goal of this project was to analyze internal company data to address a significant question: Is it beneficial for Eniac to discount its products?
 
 #### Marketing Team Lead's View:
--Believes that discounts enhance customer acquisition, satisfaction, and retention.
--Argues that discounts contribute to long-term company growth.
+- Believes that discounts enhance customer acquisition, satisfaction, and retention.
+- Argues that discounts contribute to long-term company growth.
 
 #### Main Investors' Concerns:
 - Worry that aggressive discounts might harm overall revenue.
